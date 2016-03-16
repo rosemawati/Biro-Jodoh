@@ -4,5 +4,13 @@
 	
 }
 .container {
+	text-align:center;
 	width:100%
+}
+.box {
+	background-color:gray;
+	width:30%;
+	text-align:left;
+	padding: 30px;
+    margin:auto;
 }
