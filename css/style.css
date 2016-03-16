@@ -1,1 +1,15 @@
-﻿
+﻿#header {
+	background-color:#822e8c;
+	padding-bottom:5%;	
+	background-image:none;
+}
+
+#header img{
+	float:left;
+	border-radius:5%;
+	
+}
+#header p{
+	float:right;
+	font-family:"Courier New", Courier, monospace;
+}
