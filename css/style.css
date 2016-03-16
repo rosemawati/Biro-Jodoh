@@ -1,4 +1,8 @@
 ﻿body {
 	background-color:maroon;
 	color:white;
+	
+}
+.container {
+	width:100%
 }
