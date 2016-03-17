@@ -18,17 +18,24 @@ padding:2%
 
 #proses{
 	float: left;
-	margin: 20px 20px 0 0;
+	width:15%
+	
+}
+
+
+#proses img{
+	float: left;
+	margin: 75px 75px 0 0;
 	border-radius: 4%;
 	
 }
 
-#proses img{
+#p{
 	float: left;
-	margin: 20px 20px 0 0;
-	border-radius: 4%;
+	width:15%
 	
 }
+
 
 #header3{
 background-color:WHITE;
