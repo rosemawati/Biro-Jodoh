@@ -16,3 +16,23 @@ text-align:left;
 padding:2%	
 } 
 
+#proses{
+	float: left;
+	margin: 20px 20px 0 0;
+	border-radius: 4%;
+	
+}
+
+#proses img{
+	float: left;
+	margin: 20px 20px 0 0;
+	border-radius: 4%;
+	
+}
+
+#header3{
+background-color:WHITE;
+color:purple;
+text-align:center;
+padding:2%	
+}
