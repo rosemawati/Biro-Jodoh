@@ -6,7 +6,7 @@
 background-color:purple;
 color:white;
 text-align:center;
-padding:2%	
+padding:2%;	
 } 
 	
 #header1{
@@ -53,5 +53,14 @@ h3{text-align:center;
 }
  
 body{color:white;background-color:black;
+	
+}
+
+#p{float: center;
+	width:25%
+	margin: 50px 50px 0 0;
+	border-radius: 4%;
+
+
 	
 }
