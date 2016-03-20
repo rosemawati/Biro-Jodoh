@@ -28,18 +28,21 @@ padding:2%
 
 
 #proses img{
-	float: center;
-	margin: 100px 100px 0 0;
+	float: left;
+	margin: 50px 50px 0 0;
 	border-radius: 4%;
 	
 }
+ol.text {list-style-type:decimal;
+}
+
+
 
 #p{
 	float: center;
 	width:25%
 	margin: 50px 50px 0 0;
 	border-radius: 4%;
-
 
 }
 
