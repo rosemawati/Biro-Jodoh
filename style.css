@@ -32,15 +32,27 @@
 	padding-top:1%;
 }
 
-#index button{
+#button{
 	color:white;
 	background-color:orange;
-	font-size:medium;
+	border:none;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:16px;
+	padding:15px 32px;
+
+}
+
+#adz1{
+	background-color:black;
+	color:white;
 }
 
 #adz {
 	width:100%;
-	background:none;
+	background:black;
+	color:white;
 }
 
 #adz tr td img{
