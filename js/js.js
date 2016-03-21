@@ -1,1 +1,2 @@
-﻿
+﻿$(document).ready();
+$('#button').click
