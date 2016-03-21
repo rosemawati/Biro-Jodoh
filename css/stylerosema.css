@@ -1,0 +1,107 @@
+﻿.container{
+	width: 100%;
+}
+
+#header{
+background-color:purple;
+color:white;
+text-align:center;
+padding:2%;font-size:xx-large;
+} 
+
+.judul{text-align:center;font:status-bar;font-size:xx-large;
+}
+	
+#header1{
+background-color:purple;
+color:white;
+text-align:left;
+padding:2%	
+} 
+
+
+#proses{
+	float: left;
+	width:20%
+	
+}
+
+
+#proses img{
+	float: left;
+	margin: 0px 0px 0 0;
+	border-radius: 4%;
+	
+}
+#proses img2{
+	float: left;
+	margin: 0px 0px 0 0;
+	border-radius: 4%;
+	
+}
+
+p.text {width: 150px;
+         
+          
+
+}
+
+
+
+#p{
+	float: center;
+	width:25%
+	margin: 50px 50px 0 0;
+	border-radius: 4%;
+
+}
+
+
+#header3{
+background-color:WHITE;
+color:purple;
+text-align:center;
+padding:2%	
+}
+
+h3{text-align:center;
+}
+ 
+/*body{color:black;background-color:black;
+	
+}*/
+
+div.survey {float:left;color:white;
+	width:25%
+	margin: 70px 50px 0 0;
+	border-radius: 4%;width: 250px;padding:5px;text-align:center
+  
+
+}
+
+ul {
+    list-style: square outside url("sqyellow.gif");
+    
+    }
+/*
+li {text-align:justify;
+	width: 75px;padding:5px;
+    height: 100px;text-align:left;margin-right:100px;}
+*/
+
+ li {text-align:right
+	width: 50px;padding:10px;
+    height: 70px;text-align:justify;margin-right:25px;
+
+/*div.kenapa{background-color:black;
+color:white;
+text-align:center;
+padding:2%	
+}*/
+#header2{
+background-color:purple;
+color:white;
+text-align:center;
+padding:2%;font-size:xx-large;
+} 
+
